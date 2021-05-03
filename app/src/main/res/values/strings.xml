@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Quotes App</string>
+    <string name="quote_sample">Sometimes the cards we are dealt are not always fair. However you must keep smiling and moving on.</string>
+    <string name="quote_author">Tom Jackson</string>
+    <string name="app_title">Quotes Collect</string>
+    <string name="previous">PREVIOUS</string>
+    <string name="next">NEXT</string>
+</resources>
